@@ -28,8 +28,7 @@
 - 💤 **Driver Drowsiness Detection** – Raspberry Pi & OpenCV for safety monitoring  
 - 🦾 **IoT Prosthetic Limb Monitoring** – Arduino-based IoT health project  
 - 🌐 **Portfolio Website** – React + Tailwind, deployed on Vercel  
-- 🧮 **Counter App** - A simple and interactive **JavaScript Counter App** built using  
-                        **HTML, CSS, and Vanilla JavaScript (DOM + Events)**.
+
 ---
 
 ### 📊 GitHub Stats  
